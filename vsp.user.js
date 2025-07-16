@@ -1,5 +1,5 @@
 // ==UserScript==
-//@author.       rquvau0 X caosang13
+// @author       rquvau0 X caosang13
 // @name         VSPhone Auto nhập code (GUI + chọn tốc độ)
 // @match        https://cloud.vsphone.com/activation-code/index
 // @grant        none
